@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Locales'/>
+        <page name='Numbers and Lists'/>
+        <page name='Dates and Times'/>
+    </pages>
+</playground>
